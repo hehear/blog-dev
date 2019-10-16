@@ -1,5 +1,5 @@
 # blog-dev
-博客的应用后台源代码，应用springboot框架搭建和开发。
+博客的应用后台源代码，使用java语言，应用springboot框架搭建和开发。
 - 使用springboot做为服务启动
 - 使用springmvc作为模型视图控制器
 - 使用mybatis框架管理持久层数据
